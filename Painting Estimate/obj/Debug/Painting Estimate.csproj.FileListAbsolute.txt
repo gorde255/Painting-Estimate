@@ -1,0 +1,12 @@
+C:\Users\gwalkowiak\Desktop\Chapter 8\Painting Estimate\Painting Estimate\bin\Debug\Painting Estimate.exe.config
+C:\Users\gwalkowiak\Desktop\Chapter 8\Painting Estimate\Painting Estimate\bin\Debug\Painting Estimate.exe
+C:\Users\gwalkowiak\Desktop\Chapter 8\Painting Estimate\Painting Estimate\bin\Debug\Painting Estimate.pdb
+C:\Users\gwalkowiak\Desktop\Chapter 8\Painting Estimate\Painting Estimate\obj\Debug\Painting Estimate.csproj.CoreCompileInputs.cache
+C:\Users\gwalkowiak\Desktop\Chapter 8\Painting Estimate\Painting Estimate\obj\Debug\Painting Estimate.exe
+C:\Users\gwalkowiak\Desktop\Chapter 8\Painting Estimate\Painting Estimate\obj\Debug\Painting Estimate.pdb
+C:\Users\gwalkowiak\Desktop\C#\Chapter 8\Painting Estimate\Painting Estimate\bin\Debug\Painting Estimate.exe.config
+C:\Users\gwalkowiak\Desktop\C#\Chapter 8\Painting Estimate\Painting Estimate\bin\Debug\Painting Estimate.exe
+C:\Users\gwalkowiak\Desktop\C#\Chapter 8\Painting Estimate\Painting Estimate\bin\Debug\Painting Estimate.pdb
+C:\Users\gwalkowiak\Desktop\C#\Chapter 8\Painting Estimate\Painting Estimate\obj\Debug\Painting Estimate.csproj.CoreCompileInputs.cache
+C:\Users\gwalkowiak\Desktop\C#\Chapter 8\Painting Estimate\Painting Estimate\obj\Debug\Painting Estimate.exe
+C:\Users\gwalkowiak\Desktop\C#\Chapter 8\Painting Estimate\Painting Estimate\obj\Debug\Painting Estimate.pdb
